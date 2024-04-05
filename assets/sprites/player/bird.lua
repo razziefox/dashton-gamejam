@@ -1,0 +1,1 @@
+return {padding=0,images={{name="walk.png",x=0,y=0,w=24,h=8},{name="hurt.png",x=0,y=8,w=8,h=8},{name="flap.png",x=8,y=8,w=8,h=8},{name="fall.png",x=16,y=8,w=8,h=8},}}

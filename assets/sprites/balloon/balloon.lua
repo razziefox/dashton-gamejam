@@ -1,0 +1,1 @@
+return {padding=0,images={{name="balloon.png",x=0,y=0,w=16,h=8},}}
